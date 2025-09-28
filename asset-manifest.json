@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mallow-tech-task/static/css/main.031c3dc4.css",
+    "main.js": "/mallow-tech-task/static/js/main.d2e94157.js",
+    "static/js/488.b5593176.chunk.js": "/mallow-tech-task/static/js/488.b5593176.chunk.js",
+    "index.html": "/mallow-tech-task/index.html",
+    "main.031c3dc4.css.map": "/mallow-tech-task/static/css/main.031c3dc4.css.map",
+    "main.d2e94157.js.map": "/mallow-tech-task/static/js/main.d2e94157.js.map",
+    "488.b5593176.chunk.js.map": "/mallow-tech-task/static/js/488.b5593176.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.031c3dc4.css",
+    "static/js/main.d2e94157.js"
+  ]
+}
